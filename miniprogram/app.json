@@ -1,7 +1,12 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/equipment/lend",
+    "pages/equipment/return",
+    "pages/account/account",
+    "pages/task/taskList",
+    "pages/task/taskManage",
+    "pages/record/record"
   ],
   "window": {
     "navigationBarTextStyle": "black",
